@@ -5,3 +5,4 @@ permalink: /kuramane/
 ---
 
 くらまねについて
+test<span style="font-color:red;">test</span>test
