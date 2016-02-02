@@ -1,0 +1,17 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
+
+# contact us
+
+<form method="post" action="/thanks/index.html">
+  <label>First Name</label><input type="text" name="first_name" />
+  <label>Title</label><input type="text" name="title" />
+  <label>Message</label><textarea name="message"></textarea>
+  <input type="hidden" name="to_emails[]" value="daiki@bigplants.net" />
+  <input type="hidden" name="cc_emails[]" value="hirakatad@isao.co.jp" />
+
+  <input type="submit" value="Send Message" />
+</form>
