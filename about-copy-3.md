@@ -1,7 +1,7 @@
 ---
 layout: page
-title: くらまね
-permalink: /kuramane/
+title: ISAOチャンネル
+permalink: /isao_cannel/
 ---
 
 くらまねについて
